@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cryptoproject/static/css/main.2ea13dbf.chunk.css",
+    "main.js": "/cryptoproject/static/js/main.783a4182.chunk.js",
+    "main.js.map": "/cryptoproject/static/js/main.783a4182.chunk.js.map",
+    "runtime-main.js": "/cryptoproject/static/js/runtime-main.0c270b00.js",
+    "runtime-main.js.map": "/cryptoproject/static/js/runtime-main.0c270b00.js.map",
+    "static/js/2.6b06d654.chunk.js": "/cryptoproject/static/js/2.6b06d654.chunk.js",
+    "static/js/2.6b06d654.chunk.js.map": "/cryptoproject/static/js/2.6b06d654.chunk.js.map",
+    "static/js/3.63d350f9.chunk.js": "/cryptoproject/static/js/3.63d350f9.chunk.js",
+    "static/js/3.63d350f9.chunk.js.map": "/cryptoproject/static/js/3.63d350f9.chunk.js.map",
+    "index.html": "/cryptoproject/index.html",
+    "static/css/main.2ea13dbf.chunk.css.map": "/cryptoproject/static/css/main.2ea13dbf.chunk.css.map",
+    "static/js/2.6b06d654.chunk.js.LICENSE.txt": "/cryptoproject/static/js/2.6b06d654.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c270b00.js",
+    "static/js/2.6b06d654.chunk.js",
+    "static/css/main.2ea13dbf.chunk.css",
+    "static/js/main.783a4182.chunk.js"
+  ]
+}
